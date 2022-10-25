@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+# 05-transform-objects
+Here is my practice code from the 5th video of the Three.js tutorial videos.
+
+>>>>>>> 1a238375c517c27d7a613cb6dce561706aa46cc4
 # Three.js Journey
 
 ## Setup
